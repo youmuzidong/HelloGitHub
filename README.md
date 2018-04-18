@@ -1,2 +1,2 @@
 # HelloGitHub
-Fistly use.
+Firstly use.
